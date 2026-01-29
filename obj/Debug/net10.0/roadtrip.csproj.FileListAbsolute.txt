@@ -1,0 +1,14 @@
+C:\Users\leonb\my-code-dir\roadtrip\bin\Debug\net10.0\roadtrip.exe
+C:\Users\leonb\my-code-dir\roadtrip\bin\Debug\net10.0\roadtrip.deps.json
+C:\Users\leonb\my-code-dir\roadtrip\bin\Debug\net10.0\roadtrip.runtimeconfig.json
+C:\Users\leonb\my-code-dir\roadtrip\bin\Debug\net10.0\roadtrip.dll
+C:\Users\leonb\my-code-dir\roadtrip\bin\Debug\net10.0\roadtrip.pdb
+C:\Users\leonb\my-code-dir\roadtrip\obj\Debug\net10.0\roadtrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonb\my-code-dir\roadtrip\obj\Debug\net10.0\roadtrip.AssemblyInfoInputs.cache
+C:\Users\leonb\my-code-dir\roadtrip\obj\Debug\net10.0\roadtrip.AssemblyInfo.cs
+C:\Users\leonb\my-code-dir\roadtrip\obj\Debug\net10.0\roadtrip.csproj.CoreCompileInputs.cache
+C:\Users\leonb\my-code-dir\roadtrip\obj\Debug\net10.0\roadtrip.dll
+C:\Users\leonb\my-code-dir\roadtrip\obj\Debug\net10.0\refint\roadtrip.dll
+C:\Users\leonb\my-code-dir\roadtrip\obj\Debug\net10.0\roadtrip.pdb
+C:\Users\leonb\my-code-dir\roadtrip\obj\Debug\net10.0\roadtrip.genruntimeconfig.cache
+C:\Users\leonb\my-code-dir\roadtrip\obj\Debug\net10.0\ref\roadtrip.dll
