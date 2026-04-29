@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("roadtrip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81294ab1976e34713d79c45c12170ec21da9425a")]
 [assembly: System.Reflection.AssemblyProductAttribute("roadtrip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("roadtrip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
